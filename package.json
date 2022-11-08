@@ -10,7 +10,7 @@
     "@zeit/next-sass": "^1.0.1",
     "cross-env": "^7.0.2",
     "express": "^4.17.1",
-    "next": "9.3.4",
+    "next": "13.0.2",
     "node-sass": "^4.13.1",
     "nodemon": "^2.0.3",
     "react": "16.13.1",
